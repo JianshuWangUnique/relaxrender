@@ -8,7 +8,7 @@ from OpenGL.GLUT.freeglut import *
 
 def setup_lighting():
     draw_2side=False
-    c=[1.0,1.0,1.0]
+    c=[1.0,1.0,1.0]     
 
     glColor3fv(c)
 
